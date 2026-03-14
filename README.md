@@ -2,10 +2,11 @@
 
 
  ## Abbout Me:
-
  Hello 👋
+
  My Name is Nitin.
- I'm a fast Learner 
+
+ I'm a fast Learner. 
 
  ## want to learn:
  - python
@@ -18,4 +19,5 @@
  
  ## Current status:
  beginner in coding.
+
  learning step by step.
