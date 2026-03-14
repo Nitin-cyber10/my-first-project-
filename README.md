@@ -1,6 +1,14 @@
 # my-first-project-
-learning Github
 
-Hello
-My Name is Nitin 
-I'm starting my coding journey
+
+Hello 👋
+My Name is Nitin.
+
+
+I want to learn:
+-python
+-AI
+-Github
+
+Goal: 
+-Build Advanced AI someday😄
