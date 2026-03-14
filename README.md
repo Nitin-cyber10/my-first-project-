@@ -9,8 +9,11 @@ My Name is Nitin.
 I want to learn:
 
 -python
+
 -AI
+
 -Github
+
 
 Goal: 
 
