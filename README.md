@@ -10,7 +10,7 @@ Learning journey into AI and Programming
 
  - Build Advanced AI someday😄
 
-### Why AI?
+## Why AI?
 
  I'm interested in Artificial Intelligence.I wanna build smart systems.Goal is toMcreat my own AI Asistence that could help me research and learn more.(like Jarves)😉
 
