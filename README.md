@@ -1,23 +1,24 @@
 # MY- FIRST- PROJECT- 👾
+Learning journey into AI and Programming 
 
 
- ## About Me:
+ ##About Me:
  Hello 👋
 
  My Name is Nitin.
 
  I'm a fast Learner. 
 
- ## want to learn:
- - python
- - C, C++
- - AI
- - Github
+ ##Want to Learn:
+ - Python
+ - GitHub Basics
+ - Basic AI
+ - C,C++ (optional)
 
- ## Goal: 
+ ##Goal: 
  - Build Advanced AI someday😄
  
- ## Current status:
- beginner in coding.
+ ##Current status:
+ Beginner in Coding.
 
- learning step by step.
+ Learning step by step.
