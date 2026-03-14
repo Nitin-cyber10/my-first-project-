@@ -6,9 +6,9 @@ Learning journey into AI and Programming
 
  Hello 👋
 
- My Name is Nitin.
-
- I'm a fast Learner. 
+ -My Name is Nitin.
+ -I'm a fast Learner.
+ - Build Advanced AI someday😄
 
  ## Want to Learn:
 
