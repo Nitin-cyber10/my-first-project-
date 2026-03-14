@@ -1,7 +1,7 @@
 # MY- FIRST- PROJECT- 👾
 
 
- ## Abbout Me:
+ ## About Me:
  Hello 👋
 
  My Name is Nitin.
