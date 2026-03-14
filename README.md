@@ -5,16 +5,10 @@ Hello 👋
 
 My Name is Nitin.
 
-
 I want to learn:
-
--python
-
--AI
-
--Github
-
+- python
+- AI
+- Github
 
 Goal: 
-
--Build Advanced AI someday😄
+- Build Advanced AI someday😄
