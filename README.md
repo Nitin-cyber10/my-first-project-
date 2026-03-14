@@ -21,10 +21,6 @@ Learning journey into AI and Programming
  - GitHub Basics
  - Basic AI
  - C,C++ (optional)
-
- ## Goal: 
-
- - Build Advanced AI someday😄
  
  ## Current status:
  Beginner in Coding.
