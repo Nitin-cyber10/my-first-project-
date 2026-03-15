@@ -1,4 +1,4 @@
-# MY- FIRST- PROJECT- 👾
+# MY FIRST PROJECT 👾
 Learning journey into AI and Programming 
 
 
@@ -15,10 +15,10 @@ I want to build smart systems. My goal is to create my own AI assistant that can
 
  ## Want to Learn:
 
- - Python
- - GitHub Basics
- - Basic AI
- - C,C++ (optional)
+ :snake: Python
+  GitHub Basics
+ :robot: Basic AI
+ :Game: C,C++ (optional)
  
  ## Current status:
  Beginner in Coding.
